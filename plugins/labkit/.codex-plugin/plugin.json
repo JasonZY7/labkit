@@ -1,0 +1,28 @@
+{
+  "name": "labkit",
+  "version": "0.7.0",
+  "description": "User-selected model teams, durable goals, verified delivery and local project handoffs between Codex and Claude Code.",
+  "author": {
+    "name": "JasonZY7",
+    "url": "https://github.com/JasonZY7"
+  },
+  "skills": "./skills/",
+  "interface": {
+    "displayName": "Labkit",
+    "shortDescription": "Model teams, persistent goals and project handoffs.",
+    "longDescription": "Choose model teams for planning, execution and independent reviews. Transfer a local project between Codex and Claude Code with visible conversation history, project memory, decisions and a verified checkout state.",
+    "developerName": "Jason Song",
+    "category": "Productivity",
+    "capabilities": [
+      "Read",
+      "Write"
+    ],
+    "defaultPrompt": [
+      "Choose a model team and deliver this project goal.",
+      "Resume this goal with the model team I select.",
+      "Hand this local project over to Claude Code or Codex."
+    ]
+  },
+  "homepage": "https://github.com/JasonZY7/labkit",
+  "repository": "https://github.com/JasonZY7/labkit"
+}
