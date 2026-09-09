@@ -1,0 +1,2 @@
+# Core runtime is Python standard library. Windows cleanup uses the Recycle Bin.
+pywin32==312; sys_platform == "win32"

@@ -1,0 +1,14 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+.env.*
+!.env.example
+.labkit-local/
+.labkit-run.lock
+reviews/
+review.md
+graphify-out/
+.DS_Store
+Thumbs.db
