@@ -1,0 +1,11 @@
+{
+  "name": "labkit",
+  "description": "User-selected model teams, durable goals, verified delivery and local project handoffs between Claude Code and Codex, with shared history, research records and project memory.",
+  "version": "0.7.0",
+  "author": {
+    "name": "JasonZY7",
+    "url": "https://github.com/JasonZY7"
+  },
+  "homepage": "https://github.com/JasonZY7/labkit",
+  "repository": "https://github.com/JasonZY7/labkit"
+}
