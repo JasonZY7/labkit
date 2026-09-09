@@ -1,0 +1,15 @@
+{
+  "name": "labkit",
+  "description": "Research records, model teams and local project handoffs for Claude Code and Codex.",
+  "owner": {
+    "name": "JasonZY7",
+    "url": "https://github.com/JasonZY7"
+  },
+  "plugins": [
+    {
+      "name": "labkit",
+      "source": "./plugins/labkit",
+      "description": "Shared research records, model teams and local project handoffs for Claude Code and Codex."
+    }
+  ]
+}
